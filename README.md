@@ -21,6 +21,8 @@
 2. Stablizing Reinforcement Learning in Dynamic Environment with Application to Online Recommendation
 3. Graph Convolutional Neural Networks for Web-Scale Recommender Systems
 4. Learning Tree-based Deep Model for Recommender Systems
+5. Leveraging Meta-path based Context for Top-N Recommendation with A Neural Co-Attention Model
+6. Multi-Pointer Co-Attention Networks for Recommendation
 
 ## KDD2017
 
@@ -39,6 +41,7 @@
 5. Jointly Learning Explainable Rules for Recommendation with Knowledge Graph
 6. Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preference
 7. Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems
+8. NetSMF: Large-Scale Network Embedding as Sparse Matrix Factorization
 
 ## WWW2018
 
@@ -80,3 +83,9 @@ experiments
 
 1. Improving Sequential Recommendation with Knowledge-Enhanced Memory Networks
 2. Collaborative Memory Network for Recommendation Systems
+3. A Contextual Attention Recurrent Architecture for Context-Aware Venue Recommendation
+4. Adversarial Personalized Ranking for Recommendation
+
+## SIGIR2017
+
+1. Attentive Collaborative Filtering: Multimedia Recommendation with Item-and Component-Level Attention
