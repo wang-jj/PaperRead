@@ -12,6 +12,27 @@
 4. MeLU: Meta-Learned User Preference Estimator for Cold-Start Recommendation
 5. Infer Implicit Contexts in Real-time Online-to-Offline Recommendation
 6. Real-time Attention Based Look-alike Model for Recommender System
+7. A Deep Generative Approach to
+Search Extrapolation and Recommendation
+8. Beyond Personalization: Social Content Recommendation
+for Creator Equality and Consumer Satisfaction
+9. DAML: Dual Attention Mutual Learning between Ratings and
+Reviews for Item Recommendation
+10. DuerQuiz: A Personalized Question Recommender System for
+Intelligent Job Interview
+11. Fairness-Aware Ranking in Search & Recommendation Systems
+with Application to LinkedIn Talent Search
+12. Hydra: A Personalized and Context-Aware
+Multi-Modal Transportation Recommendation System
+13. NPA: Neural News Recommendation with
+Personalized Attention
+14. Oboe: Collaborative Filtering for AutoML Model Selection
+15. POG: Personalized Outfit Generation for Fashion
+Recommendation at Alibaba iFashion
+16. Social Recommendation with Optimal Limited Attention
+17. Streaming Session-based Recommendation
+18. Topic-Enhanced Memory Networks for Personalised
+Point-of-Interest Recommendation
 
 ## KDD2018
 
@@ -42,6 +63,10 @@
 6. Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preference
 7. Hierarchical Temporal Convolutional Networks for Dynamic Recommender Systems
 8. NetSMF: Large-Scale Network Embedding as Sparse Matrix Factorization
+9. GhostLink: Latent Network Inference for
+Influence-aware Recommendation
+10. Dual Graph Aention Networks for Deep Latent Representation
+of Multifaceted Social Eects in Recommender Systems
 
 ## WWW2018
 
@@ -58,6 +83,8 @@
 
 1. A pareto-efficient algorithm for multiple objective optimization in e-commerce recommendation
 2. CB2CF: a neural multiview content-to-collaborative filtering model for completely cold item recommendations
+3. AreWe Really Making Much Progress? AWorrying Analysis of
+Recent Neural Recommendation Approaches
 
 ## RecSys2018
 
